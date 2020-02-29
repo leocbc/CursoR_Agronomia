@@ -9,10 +9,10 @@ Pós-Doutorado.
 
 Ementa:
 Instalação e conceitos iniciais (variáveis, objetos); Uso básico do R (leitura de arquivos de dados e sumarização); 
-Introdução aos métodos univariado e multivariado; 
-Análise exploratória de dados univariados e multivariados (variáveis contínuas e descontínuas, gráficos em R); 
-ANOVA, pressupostos e aplicações; Análise de correlação; ACP (aplicações práticas e derivações), Funções em R; 
-Redes Neurais Artificiais (demonstração). 
+Análise exploratória de dados (variáveis contínuas e descontínuas, gráficos em R); 
+Regressão linear e ANOVA, pressupostos e aplicações; Teste de médias; Análise de correlação; 
+Delineamentos experimentais básicos (montagem de dados e análise);
+ Princípios de análise multivariada (aplicações práticas e derivações), Funções em R; Redes Neurais Artificiais (demonstração).
 
 Objetivo: O curso visa fornecer conceitos introdutórios necessários à utilização da linguagem R 
 para a resolução de problemas estatísticos e matemáticos rotineiros nas ciências agrárias. 
