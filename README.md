@@ -3,7 +3,7 @@
 Sobre o Autor
 Graduação em Ciências Biológicas - UFPI;
 Mestrado em Genética e Melhoramento - UFPI;
-Doutorado em Genética e Melhoramento de Plantas - USP (ESALQ);
+Doutorado em Ciências - USP (ESALQ);
 Pós-Doutorado.
 
 
