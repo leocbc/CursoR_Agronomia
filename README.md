@@ -1,9 +1,9 @@
-﻿Curso de introdução ao uso da plataforma R voltado para alunos de Graduação e Pós-Graduação da área de Agronomia.
+﻿Curso de introdução ao uso da plataforma R voltado para alunos de Graduação/Pós-Graduação.
  
-Sobre o Autor: 
+Sobre o Autor
 Graduação em Ciências Biológicas - UFPI;
 Mestrado em Genética e Melhoramento - UFPI;
-Doutorado em Genética e Melhoramento de Plantas - USP (ESALQ);
+Doutorado em Ciências - USP (ESALQ);
 Pós-Doutorado.
 
 
@@ -15,7 +15,7 @@ Delineamentos experimentais básicos (montagem de dados e análise);
  Princípios de análise multivariada (aplicações práticas e derivações), Funções em R; Redes Neurais Artificiais (demonstração).
 
 Objetivo: O curso visa fornecer conceitos introdutórios necessários à utilização da linguagem R 
-para a resolução de problemas estatísticos e matemáticos rotineiros nas ciências agrárias. 
+para a resolução de problemas estatísticos e matemáticos rotineiros nas diversas áreas do conhecimento. 
 
 Plataformas: 
 Plataforma R base; Pacotes: "UsingR", "ggplot2", “grid”, “Hmisc”,"manipulate", "reshape2", "agricolae", "SkottKnott", "cluster", "ape"..
